@@ -4,11 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c89e279-5f4a-430f-a12d-517a04ea454b" name="Changes" comment="" />
+    <list default="true" id="2c89e279-5f4a-430f-a12d-517a04ea454b" name="Changes" comment="Interface Command created with 2 inners iterfaces (Input and Output), class FactorialCommand that implements Command created">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/FactorialCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/FactorialCommand.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -26,7 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,6 +55,26 @@
       <option name="presentableId" value="Default" />
       <updated>1705838054671</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dependencies added to maven">
+      <created>1705838145708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705838145708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Interface Command created with 2 inners iterfaces (Input and Output), class FactorialCommand that implements Command created">
+      <created>1705838366724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705838366724</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dependencies added to maven" />
+    <MESSAGE value="Interface Command created with 2 inners iterfaces (Input and Output), class FactorialCommand that implements Command created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface Command created with 2 inners iterfaces (Input and Output), class FactorialCommand that implements Command created" />
   </component>
 </project>
