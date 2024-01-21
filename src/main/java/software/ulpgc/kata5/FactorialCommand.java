@@ -49,7 +49,7 @@ public class FactorialCommand implements  Command{
         return new Output() {
             @Override
             public int responseCode() {
-                return 200;
+                return 404;
             }
 
             @Override
@@ -60,6 +60,6 @@ public class FactorialCommand implements  Command{
     }
 
     private boolean isOutOfBound(int number) {
-        return number > 1 || number > 20;
+        return number < 1 || number > 20;
     }
 }
